@@ -57,11 +57,15 @@ const aniket = {
 
 | # | Project | Repo | Live | Stack |
 |---|---------|------|------|-------|
-| 1 | **Capsera AI** - AI Caption Generator | [GitHub](https://github.com/AniketShinde02/Capsera) | [Live](https://capsera.vercel.app/) | Next.js · Gemini AI · MongoDB |
-| 2 | **NASA Exoplanet Explorer** - Hackathon Winner | [GitHub](https://github.com/AniketShinde02/NASA-HACKATHON) | [Live](https://aniketshinde02.github.io/NASA-HACKATHON/) | HTML · Three.js · JavaScript |
-| 3 | **Overlays Clothing** - Hackathon UI | [GitHub](https://github.com/AniketShinde02/Sheryians_hackathon) | [Live](https://sheryians-hackathon-omega.vercel.app/) | React · Node.js · CSS |
-| 4 | **MoodMirror** - AI Emotion Detector | [GitHub](https://github.com/AniketShinde02/Emotion-Detector) | [Live](https://emotion-detector-xux4.vercel.app/) | React · TensorFlow.js |
-| 5 | **[ Add Your Project ]** | Add Repo Link | Add Live Link | Add Stack |
+| Rank  | Project                                                   | GitHub                                                                                                               | Live                                                                                           | Tech Stack                                                       |
+| ----- | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| **1** | **Gurukul** – Real-Time Learning Platform                 | [https://github.com/AniketShinde02/Gurukul](https://github.com/AniketShinde02/Gurukul)                               | [https://gurukul-hazel.vercel.app/](https://gurukul-hazel.vercel.app/)                         | **Next.js · WebRTC · LiveKit · Supabase**                        |
+| **2** | **Jolo Chocolate** – Scroll-Animated Premium Landing Page | [https://lnkd.in/dRu6J6yP](https://lnkd.in/dRu6J6yP)                                                                 | [https://lnkd.in/dBznECbm](https://lnkd.in/dBznECbm)                                           | **HTML · CSS · JS · GSAP · ScrollTrigger · Canvas (207 frames)** |
+| **3** | **Capsera AI** – AI Caption Generator                     | [https://github.com/AniketShinde02/Capsera](https://github.com/AniketShinde02/Capsera)                               | [https://capsera.vercel.app/](https://capsera.vercel.app/)                                     | **Next.js · Gemini AI · MongoDB**                                |
+| **4** | **MoodMirror** – AI Emotion Detector                      | [https://github.com/AniketShinde02/Emotion-Detector](https://github.com/AniketShinde02/Emotion-Detector)             | [https://emotion-detector-xux4.vercel.app/](https://emotion-detector-xux4.vercel.app/)         | **React · TensorFlow.js**                                        |
+| **5** | **NASA Exoplanet Explorer** – Hackathon Project           | [https://github.com/AniketShinde02/aerostory-stellar-view](https://github.com/AniketShinde02/aerostory-stellar-view) | [https://aerostory-stellar-view.vercel.app/](https://aerostory-stellar-view.vercel.app/)       | **React · Node.js · CSS**                                        |
+| **6** | **Overlays Clothing** – Hackathon UI                      | [https://github.com/AniketShinde02/Sheryians_hackathon](https://github.com/AniketShinde02/Sheryians_hackathon)       | [https://sheryians-hackathon-omega.vercel.app/](https://sheryians-hackathon-omega.vercel.app/) | **React · Node.js · CSS**                                        |
+
 
 </div>
 
