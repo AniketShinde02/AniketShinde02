@@ -1,0 +1,76 @@
+name: Daily Vibe Commit
+
+on:
+  schedule:
+    - cron: '30 0 * * *'   # 6:00 AM IST
+    - cron: '30 8 * * *'   # 2:00 PM IST
+    - cron: '30 16 * * *'  # 10:00 PM IST
+  workflow_dispatch:       # manual trigger anytime
+
+jobs:
+  vibe-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update vibe log
+        run: |
+          mkdir -p .vibe
+          QUOTES=(
+            "Code is poetry written for machines."
+            "Ship it. Iterate. Repeat."
+            "First solve the problem, then write the code."
+            "Make it work, make it right, make it fast."
+            "Every expert was once a beginner."
+            "The best time to start was yesterday. The second best time is now."
+            "Build in public. Fail forward. Grow loud."
+            "Vibe coding: when the music hits and the code flows."
+            "Consistency beats talent when talent doesn't show up."
+            "One commit a day keeps the grind alive."
+            "Clean code is a love letter to your future self."
+            "Stay hungry, stay building."
+            "The grind is silent but the results are loud."
+            "Debugging: removing the wrong things you added earlier."
+            "Don't stop until you're proud of what you built."
+            "Push your limits like you push to main."
+            "Progress not perfection."
+            "Code today, ship tomorrow, scale forever."
+            "Your GitHub graph is your resume."
+            "Less talk, more commits."
+            "Real devs ship on weekends too."
+            "The only bad commit is no commit."
+            "Shopify themes and big dreams."
+            "From Maharashtra to the world, one repo at a time."
+            "Vibe check: are you coding or just thinking about it?"
+          )
+          RAND_INDEX=$(( RANDOM % ${#QUOTES[@]} ))
+          QUOTE="${QUOTES[$RAND_INDEX]}"
+          TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
+          RUN_NUM=$(cat .vibe/count.txt 2>/dev/null || echo 0)
+          RUN_NUM=$((RUN_NUM + 1))
+          echo $RUN_NUM > .vibe/count.txt
+          echo "[$TIMESTAMP] (#$RUN_NUM) $QUOTE" >> .vibe/log.txt
+          echo "# Vibe Log" > .vibe/README.md
+          echo "" >> .vibe/README.md
+          echo "Total vibes: $RUN_NUM" >> .vibe/README.md
+          echo "" >> .vibe/README.md
+          echo "Latest: _\"$QUOTE\"_" >> .vibe/README.md
+          echo "" >> .vibe/README.md
+          echo "_Last updated: $TIMESTAMP_" >> .vibe/README.md
+
+      - name: Commit the vibe
+        run: |
+          git config user.name "AniketShinde02"
+          git config user.email "aniketshinde.work@outlook.com"
+          git add .vibe/
+          git diff --staged --quiet || git commit -m "vibe: daily commit #$(cat .vibe/count.txt) - $(date -u '+%b %d %Y %H:%M')"
+
+      - name: Push the vibe
+        run: |
+          git push origin main
