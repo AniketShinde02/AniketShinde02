@@ -105,6 +105,21 @@ const aniket = {
 
 </div>
 
+
+## 🤖 Daily Vibe Bot
+
+> *This bot auto-commits 3x daily — 6 AM, 2 PM, 10 PM IST — keeping the graph green while I build.*
+
+<div align="center">
+
+![Bot Status](https://img.shields.io/badge/Vibe%20Bot-ACTIVE%203x%2FDay-brightgreen?style=for-the-badge&logo=github-actions&logoColor=white)
+![Auto Commits](https://img.shields.io/badge/Auto%20Commits-Daily-blueviolet?style=for-the-badge&logo=git&logoColor=white)
+
+[![View Vibe Log](https://img.shields.io/badge/View%20Full%20Vibe%20Log-%E2%9C%A8-orange?style=for-the-badge)](https://github.com/AniketShinde02/AniketShinde02/blob/main/.vibe/log.txt)
+
+</div>
+
+---
 ---
 
 <div align="center">
