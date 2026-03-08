@@ -17,3 +17,4 @@
 [2026-03-07 16:47:01 UTC] (#17) Ship it. Iterate. Repeat.
 [2026-03-08 03:16:06 UTC] (#18) Vibe coding: when the music hits and the code flows.
 [2026-03-08 08:55:43 UTC] (#19) Code today, ship tomorrow, scale forever.
+[2026-03-08 16:48:40 UTC] (#20) First solve the problem, then write the code.
