@@ -1,7 +1,7 @@
 # Vibe Log
 
-Total vibes: 20
+Total vibes: 21
 
-Latest: _"First solve the problem, then write the code."_
+Latest: _"Debugging: removing the wrong things you added earlier."_
 
 _Last updated: 
