@@ -1,7 +1,7 @@
 # Vibe Log
 
-Total vibes: 399
+Total vibes: 400
 
-Latest: _"Build in public. Fail forward. Grow loud."_
+Latest: _"Shopify themes and big dreams."_
 
 _Last updated: 
