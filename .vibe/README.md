@@ -1,7 +1,7 @@
 # Vibe Log
 
-Total vibes: 405
+Total vibes: 406
 
-Latest: _"Consistency beats talent when talent doesn't show up."_
+Latest: _"Build in public. Fail forward. Grow loud."_
 
 _Last updated: 
