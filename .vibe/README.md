@@ -1,7 +1,7 @@
 # Vibe Log
 
-Total vibes: 478
+Total vibes: 479
 
-Latest: _"Build in public. Fail forward. Grow loud."_
+Latest: _"Debugging: removing the wrong things you added earlier."_
 
 _Last updated: 
