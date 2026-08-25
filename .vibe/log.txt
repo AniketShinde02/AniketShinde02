@@ -525,3 +525,4 @@
 [2026-08-24 17:00:40 UTC] (#525) Your GitHub graph is your resume.
 [2026-08-25 01:58:19 UTC] (#526) Every expert was once a beginner.
 [2026-08-25 09:08:13 UTC] (#527) Make it work, make it right, make it fast.
+[2026-08-25 17:00:58 UTC] (#528) Build in public. Fail forward. Grow loud.
