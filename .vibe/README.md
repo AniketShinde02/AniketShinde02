@@ -1,7 +1,7 @@
 # Vibe Log
 
-Total vibes: 745
+Total vibes: 746
 
-Latest: _"Make it work, make it right, make it fast."_
+Latest: _"Consistency beats talent when talent doesn't show up."_
 
 _Last updated: 
