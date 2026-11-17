@@ -776,3 +776,4 @@
 [2026-11-17 00:19:11 UTC] (#776) Shopify themes and big dreams.
 [2026-11-17 08:15:30 UTC] (#777) Make it work, make it right, make it fast.
 [2026-11-17 17:46:11 UTC] (#778) Vibe coding: when the music hits and the code flows.
+[2026-11-17 23:34:15 UTC] (#779) Debugging: removing the wrong things you added earlier.
