@@ -153,9 +153,9 @@ An ambitious voice-first desktop AI assistant exploring tool use, real-time inte
 
 **[IRIS AI](https://github.com/AniketShinde02/IRIS-AI)**
 
-An AI/RAG engineering project focused on making information retrieval and codebase understanding more useful through structured context and retrieval workflows.
+A voice-first desktop AI assistant concept built around real-time speech interaction and executing actions across applications and the desktop.
 
-**Focus:** Python · RAG · Embeddings · Retrieval · LLM integrations
+**Focus:** Gemini Live · WebRTC · LangGraph · Agent orchestration · Desktop automation
 
 </td>
 </tr>
@@ -164,40 +164,40 @@ An AI/RAG engineering project focused on making information retrieval and codeba
 
 **[Capsera](https://github.com/AniketShinde02/Capsera)**
 
-An AI-powered caption generation product built to turn a creative brief into social-ready copy.
+An image-aware AI caption generator with mood-driven writing, model fallbacks, spend controls, and image optimization — built to turn visual content into social-ready copy.
 
-**Focus:** Next.js · Gemini API · MongoDB
+**Focus:** Next.js 15 · TypeScript · OpenRouter · MongoDB · NextAuth · Cloudinary
 
-[Live experience](https://capsera.vercel.app/)
+[Live experience](https://capsera.online/) · [Documentation](https://capsera-docs.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
-**[BuildOs](https://github.com/AniketShinde02/BuildOs)**
+**[BuildOS](https://github.com/AniketShinde02/BuildOs)**
 
-A product/system-building exploration around developer workflows and application infrastructure.
+An AI-powered Content Intelligence & Creative Operating System for research-led LinkedIn content, multi-stage agent orchestration, carousel generation, and social publishing.
 
-**Focus:** Product engineering · Web development
+**Focus:** Next.js 15 · 10-agent pipeline · SSE telemetry · Human-in-the-loop · Satori · LLM fallback routing · Postiz
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[Exam Buddy](https://github.com/AniketShinde02/Exam-Buddy)**
+**[Shopify Portfolio](https://github.com/AniketShinde02/Shopify-Portfolio)**
 
-An education-focused application concept for making exam preparation and learning workflows more accessible.
+A performance-minded storefront/portfolio experience with smooth scrolling, optimized rendering, interactive reveals, and contact forms.
 
-**Focus:** Web application development
+**Focus:** HTML · JavaScript · Tailwind CSS · Lenis · Intersection Observer
 
 </td>
 <td width="50%" valign="top">
 
-**[Inpaintify](https://github.com/AniketShinde02/Inpaintify)**
+**[NEXUS-AI](https://github.com/AniketShinde02/NEXUS-AI)**
 
-An image-editing/product experiment exploring AI-assisted visual workflows.
+A context-aware, voice-driven agentic assistant for natural-language interaction, real-time web context, and Windows application control. Its newer development track explores Gemini Live sessions, browser/desktop tools, persistent memory, and task-graph orchestration.
 
-**Focus:** Creative tooling · Image workflows
+**Focus:** Python · FastAPI · React · Groq · Gemini Live · Silero VAD · Edge TTS
 
 </td>
 </tr>
