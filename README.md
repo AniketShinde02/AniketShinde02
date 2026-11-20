@@ -10,7 +10,10 @@
 <br/>
 
 <a href="https://www.aniketbuilds.online">
-  <img src="https://img.shields.io/badge/PORTFOLIO-aniketbuilds.online-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MAIN%20PORTFOLIO-aniketbuilds.online-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://workataniket.vercel.app">
+  <img src="https://img.shields.io/badge/PORTFOLIO%20ARCHIVE-workataniket.vercel.app-312E81?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://github.com/AniketShinde02">
   <img src="https://img.shields.io/badge/GITHUB-@AniketShinde02-111827?style=for-the-badge&logo=github&logoColor=white" />
@@ -206,20 +209,20 @@ An image-editing/product experiment exploring AI-assisted visual workflows.
 <tr>
 <td width="50%" valign="top">
 
-**[Tipash](https://www.aniketbuilds.online)**
+**Tipash — Brand & Commerce Work**
 
-E-commerce and brand experience work across storefront, product presentation, and digital business workflows.
+E-commerce and beauty-brand digital experiences across Tipash Luxuries and Tipash Makeup, including storefront direction, product presentation, and service/booking-oriented workflows.
 
-**Focus:** Shopify · E-commerce · UI engineering · Store operations
+**Focus:** Shopify · E-commerce · Brand UI · Store operations
 
 </td>
 <td width="50%" valign="top">
 
-**[Shopify Portfolio](https://github.com/AniketShinde02/Shopify-Portfolio)**
+**Yamuna Fashion — E-commerce Workflow**
 
-A collection of Shopify-focused storefront development and commerce interface work.
+An ethnic-fashion commerce project combining Shopify storefront work with a reusable AI-assisted product-creative workflow: model references, pose and background libraries, lighting presets, and SKU-aware asset planning.
 
-**Focus:** Shopify · Liquid · Theme customization · Storefront UI
+**Focus:** Shopify · Product presentation · AI-assisted creative ops · Catalog workflows
 
 </td>
 </tr>
@@ -239,7 +242,7 @@ A visually-led chocolate brand web experience with motion-rich storytelling and 
 
 I also work on tailored digital experiences for businesses — from landing pages and Shopify storefronts to product presentation, content workflows, and practical automation.
 
-**Portfolio:** [aniketbuilds.online](https://www.aniketbuilds.online)
+**Portfolio:** [aniketbuilds.online](https://www.aniketbuilds.online) · [workataniket.vercel.app](https://workataniket.vercel.app) · [Shopify projects](https://github.com/AniketShinde02/Shopify-Portfolio)
 
 </td>
 </tr>
