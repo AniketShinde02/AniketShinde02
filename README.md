@@ -1,135 +1,380 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aniket%20Shinde&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Shopify%20Expert%20%7C%20Full%20Stack%20Builder%20%7C%20Vibe%20Coder&descAlignY=55&descAlign=50" width="100%"/>
+<!-- ╔══════════════════════════════════════════════════════════════════════╗
+     ANIKET SHINDE — GITHUB PROFILE
+     Visual direction: dark / electric / futuristic / builder-first
+     ╚══════════════════════════════════════════════════════════════════════╝ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Aniket;Shopify+Expert+%2B+MERN+Stack;I+love+Vibe+Coding;Building+pixel-perfect+solutions;Let's+build+something+epic!)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090B,35:18103A,70:312E81,100:06B6D4&text=ANIKET%20SHINDE&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=ENGINEERING%20DIGITAL%20EXPERIENCES%20%E2%80%A2%20AI%20SYSTEMS%20%E2%80%A2%20PRODUCTS&descSize=14&descAlignY=57&animation=twinkling" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=AniketShinde02&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+<br/>
+
+<a href="https://www.aniketbuilds.online">
+  <img src="https://img.shields.io/badge/PORTFOLIO-aniketbuilds.online-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/AniketShinde02">
+  <img src="https://img.shields.io/badge/GITHUB-@AniketShinde02-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:aniketshinde.work@outlook.com">
+  <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-06B6D4?style=for-the-badge&logo=minutemailer&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=850&color=67E8F9&center=true&vCenter=true&width=850&lines=Full-Stack+%2B+AI+Product+Builder;From+pixel-perfect+interfaces+to+agentic+systems;Shipping+web+experiences%2C+automation+%26+intelligent+tools;Design-minded.+Systems-driven.+Build-obsessed." alt="Typing introduction" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=AniketShinde02&style=flat-square&color=7C3AED&label=PROFILE+SIGNALS" />
 
 </div>
 
 ---
 
-## About Me
+## 01 / THE BUILDER
 
-```javascript
+I’m **Aniket Shinde** — a developer and independent product builder from **Maharashtra, India**.
+
+I work across the product stack: turning rough ideas into interfaces, full-stack applications, AI-powered workflows, and systems that solve actual business problems. My work sits at the intersection of **software engineering, applied AI, e-commerce, automation, and visual design**.
+
+I’m not limited to one framework or one category of work. I enjoy understanding the whole problem — user experience, system architecture, data, integrations, deployment, and the details that make a product usable.
+
+```ts
 const aniket = {
-  name: "Aniket Shinde",
+  role: "Full-Stack Developer & AI Product Builder",
   location: "Maharashtra, India",
-  expertise: "Shopify + Full Stack Web Dev",
-  vibe: "Vibe Coding 24/7",
-  portfolios: [
-    "https://workataniket.vercel.app",
-    "https://www.aniketbuilds.online"
+
+  focus: [
+    "Full-stack web applications",
+    "AI agents, orchestration & RAG",
+    "E-commerce systems & Shopify",
+    "Automation, integrations & tooling",
+    "Creative technology & UI engineering"
   ],
-  building: ["Capsera AI Tool", "Gurukul Platform", "Shopify Stores"],
-  contact: {
-    email: "aniketshinde.work@outlook.com",
-    linkedin: "aniket-shinde-b12526292"
-  }
+
+  coreStack: ["TypeScript", "JavaScript", "Python", "React", "Next.js"],
+  buildingMindset: "Understand the problem. Design the system. Ship the product.",
+
+  portfolio: "https://www.aniketbuilds.online",
+  contact: "aniketshinde.work@outlook.com"
 };
 ```
 
----
-
-## Tech Stack
-
 <div align="center">
 
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+**IDEAS → INTERFACES → SYSTEMS → REAL-WORLD USE**
 
 </div>
 
 ---
 
-## ✨ Vibe Coded Projects
+## 02 / WHAT I BUILD
 
-> *My biggest, most aesthetic builds — where the vibe took over.*
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ AI SYSTEMS & AGENTS
+
+- Voice-first AI assistants
+- Tool calling and agent workflows
+- Task planning and DAG orchestration
+- Retrieval-augmented generation (RAG)
+- Model/provider integrations
+- Browser and desktop automation
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ FULL-STACK PRODUCTS
+
+- Responsive web applications
+- SaaS dashboards and platforms
+- API design and backend services
+- Authentication and database workflows
+- Real-time features and communication
+- Deployment and product iteration
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ E-COMMERCE & BUSINESS TECH
+
+- Shopify storefront development
+- Custom storefront experiences
+- Product/catalog workflows
+- Store content and asset pipelines
+- Conversion-conscious UI
+- Business process automation
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ CREATIVE & INTERFACE ENGINEERING
+
+- High-fidelity UI implementation
+- Motion and scroll experiences
+- Design systems and reusable components
+- Social creative and carousel tooling
+- Image workflows and visual automation
+- Rapid prototyping and interaction design
+
+</td>
+</tr>
+</table>
+
+---
+
+## 03 / SELECTED BUILDS
+
+A mix of product experiments, engineering projects, and client-facing work. Public repositories are linked where available; some systems are actively evolving.
+
+### ◉ AI, AGENTS & DEVELOPER TOOLS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[NEXUS AI](https://github.com/AniketShinde02/NEXUS-AI)**
+
+An ambitious voice-first desktop AI assistant exploring tool use, real-time interaction, browser and desktop control, memory, and multi-step task execution.
+
+**Focus:** Python · AI orchestration · Gemini Live · Voice · Browser automation · Desktop workflows
+
+</td>
+<td width="50%" valign="top">
+
+**[IRIS AI](https://github.com/AniketShinde02/IRIS-AI)**
+
+An AI/RAG engineering project focused on making information retrieval and codebase understanding more useful through structured context and retrieval workflows.
+
+**Focus:** Python · RAG · Embeddings · Retrieval · LLM integrations
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Capsera](https://github.com/AniketShinde02/Capsera)**
+
+An AI-powered caption generation product built to turn a creative brief into social-ready copy.
+
+**Focus:** Next.js · Gemini API · MongoDB
+
+[Live experience](https://capsera.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+**[BuildOs](https://github.com/AniketShinde02/BuildOs)**
+
+A product/system-building exploration around developer workflows and application infrastructure.
+
+**Focus:** Product engineering · Web development
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Exam Buddy](https://github.com/AniketShinde02/Exam-Buddy)**
+
+An education-focused application concept for making exam preparation and learning workflows more accessible.
+
+**Focus:** Web application development
+
+</td>
+<td width="50%" valign="top">
+
+**[Inpaintify](https://github.com/AniketShinde02/Inpaintify)**
+
+An image-editing/product experiment exploring AI-assisted visual workflows.
+
+**Focus:** Creative tooling · Image workflows
+
+</td>
+</tr>
+</table>
+
+### ◉ CLIENT WORK, COMMERCE & DIGITAL EXPERIENCES
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Tipash](https://www.aniketbuilds.online)**
+
+E-commerce and brand experience work across storefront, product presentation, and digital business workflows.
+
+**Focus:** Shopify · E-commerce · UI engineering · Store operations
+
+</td>
+<td width="50%" valign="top">
+
+**[Shopify Portfolio](https://github.com/AniketShinde02/Shopify-Portfolio)**
+
+A collection of Shopify-focused storefront development and commerce interface work.
+
+**Focus:** Shopify · Liquid · Theme customization · Storefront UI
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Jolo Chocolate](https://github.com/AniketShinde02/JoloChocolate)**
+
+A visually-led chocolate brand web experience with motion-rich storytelling and scroll interactions.
+
+**Focus:** HTML · CSS · JavaScript · GSAP · ScrollTrigger
+
+</td>
+<td width="50%" valign="top">
+
+**Storefront & business builds**
+
+I also work on tailored digital experiences for businesses — from landing pages and Shopify storefronts to product presentation, content workflows, and practical automation.
+
+**Portfolio:** [aniketbuilds.online](https://www.aniketbuilds.online)
+
+</td>
+</tr>
+</table>
+
+### ◉ INTERACTIVE WEB & EXPERIMENTS
+
+| Project | What it explores | Tech / Link |
+|:--|:--|:--|
+| **[Gurukul](https://github.com/AniketShinde02/Gurukul)** | Real-time learning platform concept | Next.js · WebRTC · LiveKit · Supabase · [Preview](https://gurukul-hazel.vercel.app/) |
+| **[MoodMirror](https://github.com/AniketShinde02/Emotion-Detector)** | Browser-based emotion detection experiment | React · TensorFlow.js · [Preview](https://emotion-detector-xux4.vercel.app/) |
+| **[NASA Exoplanet Explorer](https://github.com/AniketShinde02/aerostory-stellar-view)** | Space-data visualization / hackathon build | React · Node.js · [Preview](https://aerostory-stellar-view.vercel.app/) |
+| **[Overlays Clothing](https://github.com/AniketShinde02/Sheryians_hackathon)** | Fashion storefront UI / hackathon project | React · Node.js · [Preview](https://sheryians-hackathon-omega.vercel.app/) |
+
+---
+
+## 04 / CURRENT R&D RADAR
+
+These are active areas of exploration, not claims that every component is a finished product.
+
+| Track | What I’m working through |
+|:--|:--|
+| **Nexus V1.x** | Stabilizing voice sessions, browser/desktop capabilities, memory, task graphs, orchestration, and workspace awareness |
+| **Creative Studio** | A lightweight creative workflow for social carousels, reusable layouts, visual references, and AI-assisted design |
+| **AI workflow engineering** | Provider routing, tool reliability, structured outputs, RAG, and practical agent evaluation |
+| **E-commerce automation** | Product data, catalog operations, image optimization, and repeatable storefront workflows |
+| **Interface craft** | Building a stronger library of polished, responsive, conversion-aware UI patterns |
+
+---
+
+## 05 / THE TOOLBOX
 
 <div align="center">
 
-| # | Project | Repo | Live | Stack |
-|---|---------|------|------|-------|
-| Rank  | Project                                                   | GitHub                                                                                                               | Live                                                                                           | Tech Stack                                                       |
-| ----- | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| **1** | **Gurukul** – Real-Time Learning Platform                 | [https://github.com/AniketShinde02/Gurukul](https://github.com/AniketShinde02/Gurukul)                               | [https://gurukul-hazel.vercel.app/](https://gurukul-hazel.vercel.app/)                         | **Next.js · WebRTC · LiveKit · Supabase**                        |
-| **2** | **Jolo Chocolate** – Scroll-Animated Premium Landing Page | [https://lnkd.in/dRu6J6yP](https://lnkd.in/dRu6J6yP)                                                                 | [https://lnkd.in/dBznECbm](https://lnkd.in/dBznECbm)                                           | **HTML · CSS · JS · GSAP · ScrollTrigger · Canvas (207 frames)** |
-| **3** | **Capsera AI** – AI Caption Generator                     | [https://github.com/AniketShinde02/Capsera](https://github.com/AniketShinde02/Capsera)                               | [https://capsera.vercel.app/](https://capsera.vercel.app/)                                     | **Next.js · Gemini AI · MongoDB**                                |
-| **4** | **MoodMirror** – AI Emotion Detector                      | [https://github.com/AniketShinde02/Emotion-Detector](https://github.com/AniketShinde02/Emotion-Detector)             | [https://emotion-detector-xux4.vercel.app/](https://emotion-detector-xux4.vercel.app/)         | **React · TensorFlow.js**                                        |
-| **5** | **NASA Exoplanet Explorer** – Hackathon Project           | [https://github.com/AniketShinde02/aerostory-stellar-view](https://github.com/AniketShinde02/aerostory-stellar-view) | [https://aerostory-stellar-view.vercel.app/](https://aerostory-stellar-view.vercel.app/)       | **React · Node.js · CSS**                                        |
-| **6** | **Overlays Clothing** – Hackathon UI                      | [https://github.com/AniketShinde02/Sheryians_hackathon](https://github.com/AniketShinde02/Sheryians_hackathon)       | [https://sheryians-hackathon-omega.vercel.app/](https://sheryians-hackathon-omega.vercel.app/) | **React · Node.js · CSS**                                        |
+### LANGUAGES & CORE
 
+<img src="https://skillicons.dev/icons?i=ts,js,python,html,css,bash&theme=dark" />
+
+### FRONTEND & DESIGN ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma&theme=dark" />
+
+### BACKEND, DATA & INFRASTRUCTURE
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase,sqlite,redis,cloudflare,vercel,git,github,docker&theme=dark" />
+
+### AI & CREATIVE WORKFLOWS
+
+<img src="https://img.shields.io/badge/LLM%20APIs-Gemini%20%7C%20Groq%20%7C%20Mistral-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-Embeddings%20%7C%20Vector%20Search-0891B2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/E--Commerce-Shopify%20%7C%20Liquid-16A34A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Motion-GSAP%20%7C%20Canvas%20%7C%20CSS-DB2777?style=for-the-badge" />
+
+</div>
+
+<details>
+<summary><b>More of the stack & tools I work with</b></summary>
+<br/>
+
+**Frontend:** React, Next.js App Router, TypeScript, JavaScript, Tailwind CSS, responsive UI, component systems.
+
+**Backend:** Node.js, Python, REST APIs, Supabase, MongoDB, PostgreSQL/Neon, SQLite.
+
+**AI engineering:** Gemini, Groq, model APIs, prompt design, embeddings, RAG pipelines, tool calling, speech interfaces, VAD, TTS/STT integrations.
+
+**E-commerce:** Shopify, Liquid, theme customization, product/catalog data, ImageKit, Cloudflare R2.
+
+**Build & ship:** Git, GitHub, Vercel, Render, Cloudflare, Docker, pnpm, npm.
+
+**Creative:** Figma, Canva, motion design workflows, GSAP, Canvas, image optimization.
+
+</details>
+
+---
+
+## 06 / ENGINEERING SIGNALS
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AniketShinde02&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketShinde02&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=AniketShinde02&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=67E8F9&currStreakLabel=67E8F9" />
+
+<br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=AniketShinde02&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=67E8F9&area=true&hide_border=true&custom_title=THE%20BUILD%20TIMELINE" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AniketShinde02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
 
 </div>
 
 ---
 
-## 📊 GitHub Universe
+## 07 / HOW I THINK ABOUT BUILDING
 
-<div align="center">
+> **A working demo is not the finish line. A useful product is.**
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AniketShinde02&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117)](https://github.com/AniketShinde02)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AniketShinde02&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/AniketShinde02)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AniketShinde02&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AniketShinde02&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+- **Start with the problem.** Who needs this, what hurts, and how often?
+- **Design for the user.** A polished interface should make the product easier to understand and use.
+- **Engineer for reality.** Handle latency, errors, edge cases, data, cost, and maintainability.
+- **Use AI with intent.** A model call is not a product strategy. Reliability and workflow matter.
+- **Ship, observe, improve.** Build in iterations and let real usage shape the next version.
 
 ---
 
-## 📈 Activity Graph
+## 08 / LET'S BUILD SOMETHING USEFUL
+
+I’m interested in thoughtful collaborations, ambitious product ideas, full-stack engineering, applied AI, e-commerce, and creative technology.
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AniketShinde02&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://www.aniketbuilds.online">
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-aniketbuilds.online-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/aniket-shinde-b12526292/">
+  <img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:aniketshinde.work@outlook.com">
+  <img src="https://img.shields.io/badge/EMAIL-ME-06B6D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/introvert_ani.26/">
+  <img src="https://img.shields.io/badge/FOLLOW-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-</div>
+<br/><br/>
 
----
+**Maharashtra, India** · **Full-Stack** · **AI Systems** · **E-Commerce** · **Creative Technology**
 
-## 📫 Connect & Collab
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&color=0:06B6D4,45:312E81,100:09090B" />
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-shinde-b12526292/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/introvert_ani.26/)
-[![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:aniketshinde.work@outlook.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio%201-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://workataniket.vercel.app)
-[![Portfolio](https://img.shields.io/badge/Portfolio%202-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://www.aniketbuilds.online)
-
-</div>
-
-
-## 🤖 Daily Vibe Bot
-
-> *This bot auto-commits 3x daily — 6 AM, 2 PM, 10 PM IST — keeping the graph green while I build.*
-
-<div align="center">
-
-![Bot Status](https://img.shields.io/badge/Vibe%20Bot-ACTIVE%203x%2FDay-brightgreen?style=for-the-badge&logo=github-actions&logoColor=white)
-![Auto Commits](https://img.shields.io/badge/Auto%20Commits-Daily-blueviolet?style=for-the-badge&logo=git&logoColor=white)
-
-[![View Vibe Log](https://img.shields.io/badge/View%20Full%20Vibe%20Log-%E2%9C%A8-orange?style=for-the-badge)](https://github.com/AniketShinde02/AniketShinde02/blob/main/.vibe/log.txt)
-
-</div>
-
----
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-⭐ **Vibe Coding my way to the top — from Maharashtra to the world.** ⭐
+<sub>Built with curiosity, shipped with intent. © Aniket Shinde</sub>
 
 </div>
