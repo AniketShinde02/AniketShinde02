@@ -193,11 +193,11 @@ A performance-minded storefront/portfolio experience with smooth scrolling, opti
 </td>
 <td width="50%" valign="top">
 
-**[NEXUS-AI](https://github.com/AniketShinde02/NEXUS-AI)**
+**Creative Studio — In Development**
 
-A context-aware, voice-driven agentic assistant for natural-language interaction, real-time web context, and Windows application control. Its newer development track explores Gemini Live sessions, browser/desktop tools, persistent memory, and task-graph orchestration.
+A lightweight creative workspace concept for carousel production, reusable layout presets, visual-reference analysis, and AI-assisted design workflows.
 
-**Focus:** Python · FastAPI · React · Groq · Gemini Live · Silero VAD · Edge TTS
+**Focus:** UI systems · Satori-style rendering · Design automation · Visual analysis
 
 </td>
 </tr>
