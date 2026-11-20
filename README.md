@@ -357,6 +357,6 @@ Available for select freelance engagements, product collaborations, and technica
 
 <br/><br/>
 
-<img src="./.github/profile/hero.svg" width="100%" alt="Aniket Shinde — Code, commerce, creative intelligence" />
+<img src="./.github/profile/footer.svg" width="100%" alt="Build what you wish existed — Aniket Shinde" />
 
 </div>
