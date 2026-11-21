@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./.github/profile/hero.svg" width="100%" alt="Aniket Shinde — independent product builder, full-stack engineer and AI systems developer" />
+<img src="./.github/profile/hero.svg?v=2" width="100%" alt="Aniket Shinde — independent product builder, full-stack engineer and AI systems developer" />
 
 <br/>
 
@@ -111,7 +111,7 @@ Freelance engineering across custom websites, high-fidelity landing pages, Shopi
 </tr>
 </table>
 
-<img src="./.github/profile/client-workflow.svg" width="100%" alt="Client engineering workflow: discover, define, engineer, verify, ship" />
+<img src="./.github/profile/client-workflow.svg?v=2" width="100%" alt="Client engineering workflow: discover, define, engineer, verify, ship" />
 
 ---
 
@@ -126,7 +126,7 @@ Freelance engineering across custom websites, high-fidelity landing pages, Shopi
 
 It is designed to avoid the predictable template look: generic gradients, repeated card layouts, arbitrary typography, and visuals disconnected from the source reference.
 
-<img src="./.github/profile/creative-studio-pipeline.svg" width="100%" alt="Creative Studio eight-stage autonomous editorial generation pipeline" />
+<img src="./.github/profile/creative-studio-pipeline.svg?v=2" width="100%" alt="Creative Studio eight-stage autonomous editorial generation pipeline" />
 
 <table>
 <tr>
