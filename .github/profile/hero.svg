@@ -60,7 +60,7 @@
     <path d="M22 101V115" stroke="#94A3B8" stroke-opacity=".65" stroke-dasharray="3 3"/>
     <rect y="116" width="334" height="42" rx="12" fill="#0F172A" fill-opacity=".68" stroke="#D9F99D" stroke-opacity=".52"/>
     <circle cx="22" cy="137" r="6" fill="#D9F99D"/>
-    <text x="42" y="142" fill="#E2E8F0" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="1">03   ITERATION & SHIP</text>
+    <text x="42" y="142" fill="#E2E8F0" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="1">03   ITERATION &amp; SHIP</text>
   </g>
   <path d="M316 85L350 85L350 110" stroke="#67E8F9" stroke-opacity=".55" stroke-width="1.4"/>
   <circle cx="350" cy="110" r="3" fill="#67E8F9"/>
